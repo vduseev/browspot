@@ -1,0 +1,12 @@
+#ifndef CONTROLPANEL_GLOBAL_H
+#define CONTROLPANEL_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#ifdef CONTROLPANEL_LIB
+# define CONTROLPANEL_EXPORT Q_DECL_EXPORT
+#else
+# define CONTROLPANEL_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // CONTROLPANEL_GLOBAL_H
