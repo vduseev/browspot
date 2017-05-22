@@ -1,7 +1,8 @@
 # browspot
 High-level library that helps you to work with PrimeSense and Kinect sensors.
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/50450204fb704350bd9ea7a3861b36f8)](https://www.codacy.com/app/vagiz.d/browspot-kinect-library?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vduseev/browspot-kinect-library&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/50450204fb704350bd9ea7a3861b36f8)](https://www.codacy.com/app/vagiz.d/browspot-kinect-library?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vduseev/browspot-kinect-library&amp;utm_campaign=Badge_Grade) 
+[![CircleCI](https://circleci.com/gh/vduseev/browspot-kinect-library/tree/master.svg?style=shield)](https://circleci.com/gh/vduseev/browspot-kinect-library/tree/master)
 
 ## Project deprication note
 Unfortunately, PrimeSense and Kinect structured lights sensors are not manufactured anymore, and there are better options on the market. Also with PrimeSense's acquisition by Apple the OpenNI library upon which ***browspot*** is built has stopped it's evolution. These days it continuous to be maintained by [Structure.io](structure.io) company for backward compatibility. 
