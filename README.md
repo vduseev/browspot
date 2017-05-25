@@ -13,14 +13,3 @@ Thus, further ***browspot*** development lost it's practical sense. This reposit
 * Designing higher level API
 * Isolating actual sensor interaction library from GUI
 * Implementing GUI control panel with QT
-
-## Futher plans
-
-* Add comments explaining larger methods
-* Add architecture overview
-* Add reasoning behind choosing Qt framework as a foundation
-* Add a list of most interesting moments in the code
-  - signal-slot usage
-  - Qt debug output system
-  - ...
-* Replace tabs with spaces
