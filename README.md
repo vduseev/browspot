@@ -1,4 +1,7 @@
 # browspot
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/50450204fb704350bd9ea7a3861b36f8)](https://www.codacy.com/app/vagiz.d/browspot-kinect-library?utm_source=github.com&utm_medium=referral&utm_content=vduseev/browspot-kinect-library&utm_campaign=badger)
+
 High-level library that helps you to work with PrimeSense and Kinect sensors.
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/50450204fb704350bd9ea7a3861b36f8)](https://www.codacy.com/app/vagiz.d/browspot-kinect-library?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vduseev/browspot-kinect-library&amp;utm_campaign=Badge_Grade) 
